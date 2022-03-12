@@ -50,7 +50,6 @@ comtypes==1.1.10
 conda== 4.3.16
 conda-build==2.1.5
 conda-pack==0.6.0 
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cookiecutter==1.7.2
 cryptography==3.4.8
