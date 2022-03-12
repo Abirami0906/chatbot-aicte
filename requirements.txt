@@ -10,4 +10,4 @@ wincertstore==0.2
 sklearn
 nltk
 chatterbot
-chatbot
+chatBot
