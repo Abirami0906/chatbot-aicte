@@ -84,11 +84,9 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 greenlet==1.1.1
 grpcio==1.44.0
-h5py 
 HeapDict==1.0.1
 html5lib==1.1
 idna==3.2
-imageio
 imagesize==1.2.0
 importlib-metadata==4.8.1
 inflection==0.5.1
@@ -132,8 +130,7 @@ mathparse==0.1.2
 matplotlib
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft
-mkl-random
+
 mkl-service==2.4.0
 mock==4.0.3
 more-itertools== 8.10.0
