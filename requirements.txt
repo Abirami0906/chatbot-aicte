@@ -88,7 +88,6 @@ h5py
 HeapDict==1.0.1
 html5lib==1.1
 idna==3.2
-imagecodecs
 imageio
 imagesize==1.2.0
 importlib-metadata==4.8.1
