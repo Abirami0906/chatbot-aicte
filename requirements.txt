@@ -11,3 +11,5 @@ sklearn
 nltk
 chatterbot
 chatBot
+auto-py-to-exe
+gevent --pre
